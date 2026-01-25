@@ -4,7 +4,7 @@ Information system (Cybersecurity) projects at University of Pittsburgh at Johns
 ## Operating Systems & System Security
 ### Harden Windows OS:
 Description: Applied operating system hardening techniques to reduce vulnerabilities in Windows. Configured security policies, disabled unnecessary services, and enforced secure configuration baselines. Verified improvements by reviewing system settings and security controls.<br>
-Tools: Local Security Policy, Windows Firewall Security, Oracle VirtualBox
+**Tools: Local Security Policy, Windows Firewall Security, Oracle VirtualBox**
 
 ### Secure a Notebook:
 Description: Implemented physical, firmware, and operating system security measures to protect a laptop from unauthorized access. Configured account security, encryption, and startup protections. This project focuses on endpoint security and real-world device protection practices.<br>
