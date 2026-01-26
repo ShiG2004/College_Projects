@@ -57,6 +57,10 @@ Description: Used PGP encryption to secure files and communications through publ
 **Tools: PGP Tool**
 
 ## Cloud & Infrastructure Project
+### Microsoft 365 Configurarion:
+Description: Set up and manage Microsoft 365 accounts, applications, and services, including email, collaboration tools, and security settings, to ensure seamless productivity and access for users.<br>
+**Tools: **
+
 ### AWS Firewalling Project:
 Description: Designed and implemented firewall rules within an AWS environment to control network traffic between cloud resources and external networks. Configured inbound and outbound rules to allow only authorized ports, protocols, and IP addresses, then validated configurations by testing allowed and blocked traffic scenarios. This project demonstrates understanding of cloud network security, access control, and defense-in-depth principles.<br>
 **Tools: AWS, VPC, Security Groups, EC2**
@@ -97,7 +101,7 @@ Description: Set up and configure virtual machines running Windows operating sys
 ## Hardware, UX/UI & Web Design
 ### PC Hardware Project:
 Description: Assembled and analyzed PC components to understand system hardware architecture. Verified compatibility and functionality through testing.<br>
-**Tools: PC Hardware Components, Manually disassembled**
+**Tools: PC Hardware Components, Manually Disassembled & Assembled**
 
 ### PC Design:
 Description: Designed a custom PC build based on performance, budget ($800), and use-case requirements. Selected components to balance efficiency and cost.<br>
@@ -123,6 +127,6 @@ Description: Developed a structured product backlog outlining features, prioriti
 Description: Putting learned theories, principles, or techniques into practice to solve real-world problems, complete projects, or improve processes, demonstrating understanding and practical skills.<br>
 **Tools: Academic Technical Research**
 
-### :
-Description: <br>
-**Tools: **
+### Prepare PC for Customer:
+Description: Configure, install, and optimize a computer system according to customer requirements, including software setup, hardware checks, updates, and ensuring the system is ready for immediate use.<br>
+**Tools: BIOS/UEFI, Manually Disassembled & Assembled**
