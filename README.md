@@ -119,6 +119,10 @@ Description: Created a UI/UX prototype for a garage-related application, focusin
 Description: Developed a structured product backlog outlining features, priorities, and requirements for a mobile application using Agile methodologies.<br>
 **Tools: Mircosoft Word Online**
 
+### Applying Concepts:
+Description: Putting learned theories, principles, or techniques into practice to solve real-world problems, complete projects, or improve processes, demonstrating understanding and practical skills.<br>
+**Tools: Academic Technical Research**
+
 ### :
 Description: <br>
 **Tools: **
