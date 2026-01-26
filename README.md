@@ -57,7 +57,7 @@ Description: Used PGP encryption to secure files and communications through publ
 **Tools: PGP Tool**
 
 ## Cloud & Infrastructure Project
-### Microsoft 365 Configurarion:
+### Microsoft 365 Configuration:
 Description: Set up and manage Microsoft 365 accounts, applications, and services, including email, collaboration tools, and security settings, to ensure seamless productivity and access for users.<br>
 **Tools: Mircosoft 365, Admin center tools, Active Directory, Server Manager, Squarespace**
 
