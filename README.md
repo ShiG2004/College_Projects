@@ -90,6 +90,10 @@ Description: Configured DNS services to improve name resolution and deployed fil
 Description: Implemented virtualization to run multiple operating systems on a single physical machine. Configured virtual machines and explored resource allocation and isolation.<br>
 **Tools: Oracle VirtualBox, BIOS/UEFI, Windows OS ISO**
 
+### Create Windows VMs:
+Description: Set up and configure virtual machines running Windows operating systems, allowing multiple isolated environments to run on a single physical computer. This is useful for testing, development, software deployment, or running applications in separate, controlled environments without affecting the host system.<br>
+**Tools: Oracle VirtualBox, Command Prompt**
+
 ## Hardware, UX/UI & Web Design
 ### PC Hardware Project:
 Description: Assembled and analyzed PC components to understand system hardware architecture. Verified compatibility and functionality through testing.<br>
@@ -117,12 +121,4 @@ Description: Developed a structured product backlog outlining features, prioriti
 
 ### :
 Description: <br>
-Tools: 
-
-### :
-Description: <br>
-Tools: 
-
-### :
-Description: <br>
-Tools: 
+**Tools: **
