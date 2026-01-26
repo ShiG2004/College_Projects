@@ -59,7 +59,7 @@ Description: Used PGP encryption to secure files and communications through publ
 ## Cloud & Infrastructure Project
 ### Microsoft 365 Configurarion:
 Description: Set up and manage Microsoft 365 accounts, applications, and services, including email, collaboration tools, and security settings, to ensure seamless productivity and access for users.<br>
-**Tools: **
+**Tools: Mircosoft 365, Admin center tools, Active Directory, Server Manager, Squarespace**
 
 ### AWS Firewalling Project:
 Description: Designed and implemented firewall rules within an AWS environment to control network traffic between cloud resources and external networks. Configured inbound and outbound rules to allow only authorized ports, protocols, and IP addresses, then validated configurations by testing allowed and blocked traffic scenarios. This project demonstrates understanding of cloud network security, access control, and defense-in-depth principles.<br>
