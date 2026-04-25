@@ -1,5 +1,5 @@
 # College Projects
-Information system (Cybersecurity) projects at University of Pittsburgh at Johnstown. It has a collection of hands-on college projects covering cybersecurity, cloud computing, networking, system hardening, and IT infrastructure, with practical experience in AWS, Azure, Windows security, and network defense.
+A portfolio of hands-on information systems projects completed at the University of Pittsburgh at Johnstown, spanning cybersecurity, cloud infrastructure, networking, business intelligence, and IT project management. Projects range from offensive and defensive security exercises — including system hardening, password recovery, wireless vulnerability scanning, and simulated man-in-the-middle attacks — to cloud deployments across AWS and Azure covering IAM, firewalling, virtual machines, and directory services. Additional work includes data analysis and machine learning with Excel, SQL, Tableau, and Python; IT disaster recovery planning and tabletop exercises; and Agile project management through sprint execution, PERT estimation, and product roadmapping. Together, these projects reflect a broad, practical foundation in enterprise IT with depth in security, cloud operations, and data-driven decision-making.
 
 ## Operating Systems & System Security
 ### Harden Windows OS:
