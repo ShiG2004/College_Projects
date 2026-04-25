@@ -130,3 +130,58 @@ Description: Putting learned theories, principles, or techniques into practice t
 ### Prepare PC for Customer:
 Description: Configure, install, and optimize a computer system according to customer requirements, including software setup, hardware checks, updates, and ensuring the system is ready for immediate use.<br>
 **Tools: BIOS/UEFI, Manually Disassembled & Assembled**
+
+## Business Intellegence
+### Excel Data Analysis:
+Description: Cleaned and analyzed a payroll dataset (201 employees) in Excel. Tasks included fixing data quality issues (text-formatted salaries, duplicate IDs, inconsistent department names), computing total compensation, building pivot tables by operating unit, and creating bar charts by state.
+**Tool: Microsoft Excel**
+
+### Tableau 1:
+Description: Created two Tableau charts using pharma sales data: a time-series bar chart of average prescription price by month, and a scatter/shape visualization using prescription quantity, profit, region, drug supplier, and pharmacy dimensions.
+**Tool: Tableau**
+
+### Tableau 2:
+Description: Analyzed coffee chain sales data in Tableau by joining three relational tables. Answered business questions about market size impact on product sales, profit vs. sales by product type, and California-specific profitability (identifying Decaf Irish Cream as a money-loser).
+**Tool: Tableau**
+
+### SQL Analysis:
+Description: Wrote SQL queries against two NYC open datasets (Film Permits and Noise Complaints) to answer 10 analytical questions — record counts, date ranges, most common event types, complaint sources, etc.
+**Tool: sqliteonline.com**
+
+### Machine Learning:
+Description: Built a linear regression model in Python (scikit-learn, Kaggle) using baseball salary data. Predicted player salary from free agency eligibility, strikeouts, and RBIs. Achieved a MAE of ~724 and documented coefficients. Answers were recorded in an accompanying Excel Q&A sheet.
+**Tools: Python, Jupyter Notebook**
+
+### GenAI Analysis:
+Description: Used ChatGPT to analyze the University of Pittsburgh's audited financial statements. Asked it structured questions about total assets ($10.9B), biggest expense (salaries at $1.5B), cash flow trends, and asset/liability summaries, then compiled responses into a PowerPoint.
+**Tool: OpenAI ChatGPT**
+
+## Business Continuity & Disaster Recovery (BCDR)
+### ITDR Plan:
+Description: Authored a formal IT Disaster Recovery Plan covering governance, recovery tiers (RTO/RPO for 9 systems from Active Directory to Archives), DR team structure, activation triggers, system restoration procedures, and appendices with contact info and an event log template.
+**Tool: Microsoft Word**
+
+### Tabletop Exercise:
+Description: Designed a ransomware attack tabletop exercise to test DR readiness. Walked through a simulated Monday morning cyberattack scenario in phases — detection, escalating outages, and team response decisions — without touching real systems.
+**Tool: Microsoft PowerPoint**
+
+### TSB Bank BC/DR Case Study:
+Description: Performed a post-mortem BC/DR analysis of TSB Bank's catastrophic 2018 platform migration failure (1.3B records, 5.2M customers affected, £330M in losses). Identified gaps in their ITDR plan (no activation triggers, no data integrity verification), recommended risk mitigation strategies (parallel operation, hot standby, CAB sign-off), and outlined the testing they should have done.
+**Tool: Microsoft Word**
+
+## Project Management
+### Agile Final Project - Rizzos:
+Description: Coming Soon...
+**Tools: Azure DevOps, Replit AI, Claude AI**
+
+### Millrats Ticketing System Product Roadmap:
+Description: Designed a full product roadmap for the Johnstown Millrats baseball team's new ticketing system. Covered 4 target platforms (Fan Web, Fan Mobile, Staff Web, Staff Android) across 4 phased releases from April–November 2026. Built in Miro.<br>
+**Tool: Miro.com**
+
+### PERT Estimation:
+Description: Used the PERT method in Excel to estimate a Netflix-style web app project. Estimated effort for 9 epics, calculated total expected project duration (~14.8 weeks), and determined an MVP completion date for Must-Have features only (April 20th) based on a 2-person team starting March 1st.
+**Tools: Azure DevOps, Microsoft Excel**
+
+### Sprint Practice:
+Description: Ran a 1-week Scrum sprint using Azure DevOps for backlog/story management and Wix to build a Netflix-branded homepage. Involved sprint planning, daily standups, and scrum role assignments across a team.
+**Tool: Wix.com**
