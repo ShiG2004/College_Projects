@@ -182,6 +182,10 @@ Description: Designed a full product roadmap for the Johnstown Millrats baseball
 Description: Used the PERT method in Excel to estimate a Netflix-style web app project. Estimated effort for 9 epics, calculated total expected project duration (~14.8 weeks), and determined an MVP completion date for Must-Have features only (April 20th) based on a 2-person team starting March 1st.<br>
 **Tools: Azure DevOps, Microsoft Excel**
 
+### Sprint Planning:
+Description: Coming Soon...<br>
+**Tool: Azure DevOps**
+
 ### Sprint Practice:
 Description: Ran a 1-week Scrum sprint using Azure DevOps for backlog/story management and Wix to build a Netflix-branded homepage. Involved sprint planning, daily standups, and scrum role assignments across a team.<br>
 **Tool: Wix.com**
